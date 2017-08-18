@@ -53,13 +53,6 @@ p {
     color: #333;
 }
 
-#profile-pic {
-    width: 50%;
-    height: 50%;
-    position: absolute;
-    border: 2px solid black;
-}
-
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
