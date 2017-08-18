@@ -23,6 +23,20 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+#div-left {
+    position: relative;
+    float: left;
+    width: 60%;
+}
+
+#div-right {
+    position: relative;
+    float: right;
+    width: 40%;
+    
+}
+
 h1 {
     font-size: 3em;
     font-family: 'Josefin Sans', sans-serif;
