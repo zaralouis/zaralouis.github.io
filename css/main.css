@@ -28,7 +28,9 @@ a:hover {
     float: left;
     width: 60%;
     height: 100%;
-    overflow: hidden;
+    overflow: auto;
+    display: block;
+    position: absolute;
 }
 
 .right-div {
@@ -36,6 +38,7 @@ a:hover {
     width: 40%;
     height: 100%;
     overflow: hidden;
+    position: absolute;
 }
 
 h1 {
