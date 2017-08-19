@@ -24,18 +24,10 @@ a:hover {
     text-decoration: underline;
 }
 
-#profile-pic {
-    height: 450px;
-    width: 415px;
-    position: absolute;
-    border: 2px solid black;
-}
-
 .left-div {
     float: left;
     overflow: hidden;
     display: block;
-    position: absolute;
 }
 
 .right-div {
@@ -44,11 +36,9 @@ a:hover {
     height: 100%;
     display: block;
     overflow: auto;
-    position: absolute;
     margin-left: 400px;
     margin-right: 5px;
     margin-top: 10px;
-    margin-bottom: 10px;
 }
 
 h1 {
