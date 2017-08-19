@@ -24,11 +24,15 @@ a:hover {
     text-decoration: underline;
 }
 
+#profile-pic {
+    height: 450px;
+    width: 415px;
+    position: absolute;
+}
+
 .left-div {
     float: left;
-    width: 60%;
-    height: 100%;
-    overflow: auto;
+    overflow: hidden;
     display: block;
     position: absolute;
 }
@@ -37,7 +41,8 @@ a:hover {
     float: right;
     width: 40%;
     height: 100%;
-    overflow: hidden;
+    display: block;
+    overflow: auto;
     position: absolute;
 }
 
