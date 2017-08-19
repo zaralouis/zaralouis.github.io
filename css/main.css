@@ -25,17 +25,17 @@ a:hover {
 }
 
 .left-div {
-    position: absolute;
     float: left;
     width: 60%;
     height: 100%;
+    overflow: hidden;
 }
 
 .right-div {
-    position: absolute;
     float: right;
     width: 40%;
     height: 100%;
+    overflow: hidden;
 }
 
 h1 {
