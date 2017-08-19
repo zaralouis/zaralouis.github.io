@@ -24,6 +24,12 @@ a:hover {
     text-decoration: underline;
 }
 
+.container {
+    position: absolute; 
+    width: 100%;
+    height: 100%; 
+}
+
 .left-div {
     position: relative;
     float: left;
@@ -36,6 +42,13 @@ a:hover {
     float: right;
     width: 40%;
     height: 100%;
+}
+
+#profile-pic {
+    width: 60%;
+    height: 60%;
+    position: absolute;
+    border: 1px solid black;
 }
 
 h1 {
