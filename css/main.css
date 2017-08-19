@@ -27,14 +27,12 @@ a:hover {
 .left-div {
     float: left;
     overflow: hidden;
-    display: block;
 }
 
 .right-div {
     float: right;
     width: 40%;
     height: 100%;
-    display: block;
     overflow: auto;
     margin-left: 400px;
     margin-right: 5px;
