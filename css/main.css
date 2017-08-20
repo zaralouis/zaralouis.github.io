@@ -38,7 +38,7 @@ a:hover {
     width: 40%;
     height: 100%;
     overflow: auto;
-    margin-left: 600px;
+    margin-left: 500px;
     margin-right: 5px;
     margin-top: 10px;
 }
@@ -50,12 +50,12 @@ a:hover {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 3em;
     font-family: 'Josefin Sans', sans-serif;
 }
 
 h2 {
-  font-size: 30px;
+  font-size: 2em;
   font-family: 'Josefin Sans', sans-serif;
 }
 p {
